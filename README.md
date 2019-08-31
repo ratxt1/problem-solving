@@ -8,6 +8,7 @@ Leetcode
 
 Easy
 https://leetcode.com/problems/path-sum/
+https://leetcode.com/problems/maximum-subarray/submissions/
 
 Medium
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
