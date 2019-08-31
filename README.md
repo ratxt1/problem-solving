@@ -9,6 +9,7 @@ Leetcode
 Easy
 https://leetcode.com/problems/path-sum/
 https://leetcode.com/problems/maximum-subarray/submissions/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/
 
 Medium
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
